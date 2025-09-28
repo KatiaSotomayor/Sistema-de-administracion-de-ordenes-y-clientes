@@ -1,0 +1,10 @@
+C:\Users\Usuario\AppData\Local\Temporary Projects\sistema\bin\Debug\sistema.exe.config
+C:\Users\Usuario\AppData\Local\Temporary Projects\sistema\bin\Debug\sistema.exe
+C:\Users\Usuario\AppData\Local\Temporary Projects\sistema\bin\Debug\sistema.pdb
+C:\Users\Usuario\AppData\Local\Temporary Projects\sistema\bin\Debug\sistema.xml
+C:\Users\Usuario\AppData\Local\Temporary Projects\sistema\obj\Debug\sistema.Resources.resources
+C:\Users\Usuario\AppData\Local\Temporary Projects\sistema\obj\Debug\sistema.vbproj.GenerateResource.Cache
+C:\Users\Usuario\AppData\Local\Temporary Projects\sistema\obj\Debug\sistema.exe
+C:\Users\Usuario\AppData\Local\Temporary Projects\sistema\obj\Debug\sistema.xml
+C:\Users\Usuario\AppData\Local\Temporary Projects\sistema\obj\Debug\sistema.pdb
+C:\Users\Usuario\AppData\Local\Temporary Projects\sistema\obj\Debug\sistema.Form1.resources
